@@ -1,0 +1,35 @@
+{
+    "products" : [
+        {
+            "name" : "Uranium Ore",
+            "price" : 39.95,
+            "info" : "While this small amount of uranium ore is pretty low on the radioactivity meter, it's pretty weird that you can buy it from the same site where you get your gym socks.",
+            "image" : "TODO"
+        },
+        {
+            "name" : "Home Mushroom Farm",
+            "price" : 22.85,
+            "info" : "Now you can grow your own fungus right at home—and not in between your toes!",
+            "image" : "TODO"
+        },
+        {
+            "name" : "Human Finger",
+            "price" : 15.00,
+            "info" : "The perfect gift for the science teacher in your life—or the kid you need to start hiding the scissors from.",
+            "image" : "TODO"
+        },
+        {
+            "name" : "Bacon Scented Mustache",
+            "price" : 4.07,
+            "info" : "Now you can smell bacon all day in peace, its scent hidden in an inconspicuous piece of facial hair.",
+            "image" : "TODO"
+        },
+        {
+            "name" : "Desktop Refridgerator",
+            "price" : 38.00,
+            "info" : "Now when you say you need a cold one, you can mean it literally, with one single refrigerated beverage at your fingertips.",
+            "image" : "TODO"
+        }
+    ]
+}
+
